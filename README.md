@@ -1,2 +1,2 @@
 # 100daysofpython-challenge
-Start date is 24 march 2023
+Start date is 23 march 2023
