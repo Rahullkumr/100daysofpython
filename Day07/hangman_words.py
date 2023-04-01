@@ -1,0 +1,20 @@
+word_list = [
+    'layoff', 'application', 'bit', 'buffer', 'byte', 'Email', 'disk',
+    'output', 'system', 'modem', 'memory', 'keyboard', 'input', 'hardware',
+    'peripheral', 'program', 'screen', 'software', 'content', 'engagement', 'embedding',
+    'marketing', 'affiliate', 'social', 'blogging', 'twitter', 'influencer',
+    'keyword', 'caliph', 'cobweb', 'cockiness', 'croquet', 'crypt',
+    'automation', 'search', 'traffic', 'hacking', 'testing', 'website', 'pixels',
+    'communication', 'experience', 'copyright', 'trademark', 'photoshop', 'resolution', 'wallpaper',
+    'research', 'wireframe', 'kernel', 'hierarchy', 'frontend', 'backend',
+    'development', 'brackets', 'selector', 'developer', 'fuchsia', 'meta', 'elements',
+    'interface', 'database', 'services', 'devops', 'android', 'framework', 'bootstrap',
+    'antivirus', 'defragmenter', 'fragmentation', 'browser', 'processor', 'python',
+    'hyphen', 'javascript', 'flutter', 'protocol', 'smartphone', 'cache', 'recursion',
+    'virtual', 'ethernet', 'connect', 'security', 'router', 'firewall',
+    'network', 'architecture', 'roadmap', 'visualization', 'mongodb', 'hybrid', 'integrated',
+    'quantum', 'blockchain', 'metaverse', 'headset', 'anaconda', 'podcast', 'eclipse',
+    'spyware', 'kilobyte', 'ransomware','cryptocurrency','bitcoin','phishing','password','malicious',
+    'vulnerable','illegitimate','encryption','decrypt','botnet','spam','packet','payload','rootkit',
+    'cloaking','attack','injection','backdoor','backup','exploit','thrashing','polymorphism','java'
+]
