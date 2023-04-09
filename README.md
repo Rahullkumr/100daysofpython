@@ -27,7 +27,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>print(), input(), concatenation</td>
-    <td rowspan="17">16</td>
+    <td rowspan="14">15</td>
   </tr>
   <tr>    
     <td>Day02</td>
@@ -159,6 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>falna chilna</td>
+    <td rowspan="2">00</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -180,6 +181,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>-</td>
+    <td rowspan="1">00</td>
   </tr>
 
 </table>
