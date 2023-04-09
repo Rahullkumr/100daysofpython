@@ -14,6 +14,7 @@ Start date is 23 march 2023
     <th>Day</th>
     <th>Project</th>
     <th>Concepts</th>
+    <th>Total Projects</th>
   </tr>
 
 <!-- Begineer Level -->
@@ -26,6 +27,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>print(), input(), concatenation</td>
+    <td rowspan="17">16</td>
   </tr>
   <tr>    
     <td>Day02</td>
