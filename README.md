@@ -143,7 +143,7 @@ Start date is 23 march 2023
     <td>Day14</td>
     <td>
       <ul>
-          <li><a href="https://rb.gy/c7s9j">Higher-Lower Game</a></li>
+          <li><a href="https://github.com/Rahullkumr/HigherLower-Game">Higher-Lower Game</a></li>
       </ul>
     </td>
     <td>function, dictionary, random</td>
