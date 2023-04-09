@@ -23,7 +23,7 @@ Start date is 23 march 2023
     <td>Day01</td>
     <td>
     	<ul>
-        	<li><a href="shorturl.at/DWZ02">UserName Generator</a></li>
+        	<li><a href="https://rb.gy/i8362">UserName Generator</a></li>
       </ul>
     </td>
     <td>print(), input(), concatenation</td>
@@ -33,8 +33,8 @@ Start date is 23 march 2023
     <td>Day02</td>
     <td>
       <ul>
-          <li><a href="shorturl.at/vCKR1">Tip Calculator</a></li>
-          <li><a href="https://rb.gy/jzng1">BMI Calculator</a></li>          
+          <li><a href="https://rb.gy/nb5xh">Tip Calculator</a></li>
+          <li><a href="https://rb.gy/47d4r">BMI Calculator</a></li>          
       </ul>
     </td>
     <td>Arithmetic Operators, round(), Type Casting</td>
@@ -43,8 +43,8 @@ Start date is 23 march 2023
     <td>Day03</td>
     <td>
       <ul>
-          <li><a href="shorturl.at/iFGHM">Love Calculator</a></li>
-          <li><a href="shorturl.at/cuF29">Treasure Island</a></li>
+          <li><a href="https://rb.gy/vtxee">Love Calculator</a></li>
+          <li><a href="https://rb.gy/g3ois">Treasure Island</a></li>
       </ul>
     </td>
     <td>if-elif-else, f-string, lower(), count()</td>
@@ -53,7 +53,7 @@ Start date is 23 march 2023
     <td>Day04</td>
     <td>
       <ul>
-          <li><a href="shorturl.at/hnJS7">Rock Paper Scissors</a></li>
+          <li><a href="https://rb.gy/lw30m">Rock Paper Scissors</a></li>
       </ul>
     </td>
     <td>import random, split(), len(), list</td>
@@ -62,7 +62,7 @@ Start date is 23 march 2023
     <td>Day05</td>
     <td>
       <ul>
-          <li><a href="https://rb.gy/b0hng">Password Generator</a></li>
+          <li><a href="https://rb.gy/as0fa">Password Generator</a></li>
       </ul>
     </td>
     <td>for loop, list</td>
@@ -71,7 +71,7 @@ Start date is 23 march 2023
     <td>Day06</td>
     <td>
       <ul>
-          <li><a href="#">Skip the Maze</a></li>
+          <li><a href="https://rb.gy/virth">Skip the Maze</a></li>
       </ul>
     </td>
     <td>user defined functions</td>
