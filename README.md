@@ -1,9 +1,11 @@
 # [100daysofpython-challenge ](https://github.com/Rahullkumr/100daysofpython-challenge)
 Start date is 23 march 2023
 
+
 <!DOCTYPE html>
 <html>
 <head>
+<style> table, th, td { border: 1px solid black; border-collapse: collapse; } </style>
 </head>
 <body>
 
@@ -23,7 +25,7 @@ Start date is 23 march 2023
     <td>Day01</td>
     <td>
     	<ul>
-        	<li>[UserName Generator](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day01)</li>
+        	<li><a href="shorturl.at/etGPZ">UserName Generator</a></li>
         </ul>
     </td>
   </tr>
