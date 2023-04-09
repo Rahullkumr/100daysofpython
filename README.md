@@ -12,7 +12,7 @@ Start date is 23 march 2023
   <tr>
     <th>Level</th>
     <th>Day</th>
-    <th>Projects</th>
+    <th>Project</th>
     <th>Concepts</th>
   </tr>
 
@@ -171,18 +171,13 @@ Start date is 23 march 2023
 <!-- Advanced level -->
   <tr>
     <td rowspan="1">Advanced</td>
-    <td>Day01</td>
+    <td>Day0</td>
     <td>
       <ul>
           <li><a href="#">-</a></li>
       </ul>
     </td>
     <td>-</td>
-  </tr>
-
-<!-- Total Projects -->
-  <tr>
-    <td colspan="3"><center>Total Projects = 15</center></td>
   </tr>
 
 </table>
