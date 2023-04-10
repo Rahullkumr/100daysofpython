@@ -1,7 +1,6 @@
 # [100daysofpython-challenge ](https://github.com/Rahullkumr/100daysofpython-challenge)
 Start date is 23 march 2023
 
-Table of Content
 <!DOCTYPE html>
 <html>
 <head>
@@ -188,9 +187,9 @@ Table of Content
 </table>
 </body>
 </html>
-<hr>
 
 ### Visualise the projects 
+<hr>
 
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
