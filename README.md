@@ -191,7 +191,6 @@ Start date is 23 march 2023
 
 ## Following are the projects 
 
-<hr>
 
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
