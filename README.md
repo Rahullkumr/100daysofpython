@@ -187,8 +187,8 @@ Start date is 23 march 2023
 </table>
 </body>
 </html>
-
-### Visualise the projects 
+<hr>
+### Following are the projects 
 <hr>
 
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
