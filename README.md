@@ -188,7 +188,10 @@ Table of Content
 </table>
 </body>
 </html>
------
+<hr>
+
+### Visualise the projects 
+
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
 
