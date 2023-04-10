@@ -159,7 +159,7 @@ Table of Content
           <li><a href="https://github.com/Rahullkumr/CoffeeMachine">Coffee Machine</a></li>
       </ul>
     </td>
-    <td>function, for, while</td>
+    <td>function, for, while, dictionary</td>
     <td rowspan="2">01</td>
   </tr>
   <tr>
@@ -188,6 +188,9 @@ Table of Content
 </table>
 </body>
 </html>
-
+---
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
+![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
+
+**[Day 16 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
