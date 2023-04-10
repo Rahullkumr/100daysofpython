@@ -1,6 +1,7 @@
 # [100daysofpython-challenge ](https://github.com/Rahullkumr/100daysofpython-challenge)
 Start date is 23 march 2023
 
+Table of Content
 <!DOCTYPE html>
 <html>
 <head>
@@ -155,11 +156,11 @@ Start date is 23 march 2023
     <td>Day15</td>
     <td>
       <ul>
-          <li><a href="#">Something</a></li>
+          <li><a href="https://github.com/Rahullkumr/CoffeeMachine">Coffee Machine</a></li>
       </ul>
     </td>
-    <td>falna chilna</td>
-    <td rowspan="2">00</td>
+    <td>function, for, while</td>
+    <td rowspan="2">01</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -187,3 +188,6 @@ Start date is 23 march 2023
 </table>
 </body>
 </html>
+
+**[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
+![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
