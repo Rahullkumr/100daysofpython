@@ -195,5 +195,5 @@ Start date is 23 march 2023
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
 
-**[Day 16 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
+**[Day 16 - Coffee Machine oops](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day16-CoffeeMachine-oops)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
