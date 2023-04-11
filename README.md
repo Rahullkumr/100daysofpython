@@ -159,16 +159,16 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="2">01</td>
+    <td rowspan="2">02</td>
   </tr>
   <tr>
     <td>Day16</td>
     <td>
       <ul>
-          <li><a href="#">OOPs</a></li>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day16-CoffeeMachine-oops">CoffeeMachine-oops</a></li>
       </ul>
     </td>
-    <td>falna chilna</td>
+    <td>function, class, object</td>
   </tr>
 
 <!-- Advanced level -->
