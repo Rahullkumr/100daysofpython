@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="2">02</td>
+    <td rowspan="3">03</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -169,6 +169,15 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, class, object</td>
+  </tr>
+  <tr>
+    <td>Day17</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day17-quiz">Quiz TF</a></li>
+      </ul>
+    </td>
+    <td>function, class, object, open Trivia database, api</td>
   </tr>
 
 <!-- Advanced level -->
