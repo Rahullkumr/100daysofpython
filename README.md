@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="2">Intermediate</td>
+    <td rowspan="3">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -174,10 +174,10 @@ Start date is 23 march 2023
     <td>Day17</td>
     <td>
       <ul>
-          <li><a href="https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day17-quiz">Quiz TF</a></li>
+          <li><a href="https://github.com/Rahullkumr/quiz-TF">Quiz TF</a></li>
       </ul>
     </td>
-    <td>function, class, object, open Trivia database, api</td>
+    <td>class, object, open Trivia database, api</td>
   </tr>
 
 <!-- Advanced level -->
@@ -206,3 +206,6 @@ Start date is 23 march 2023
 
 **[Day 16 - Coffee Machine oops](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day16-CoffeeMachine-oops)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
+
+**[Day 17 - Quiz TF](https://github.com/Rahullkumr/quiz-TF)**
+![](https://github.com/Rahullkumr/quiz-TF/blob/main/quiz.gif)
