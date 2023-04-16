@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="3">Intermediate</td>
+    <td rowspan="4">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="3">03</td>
+    <td rowspan="4">04</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -178,6 +178,17 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>class, object, open Trivia database, api</td>
+  </tr>
+  <td>Day18</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Shapes</a></li>
+          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Random Walk</a></li>
+          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Spirograph</a></li>
+          <li><a href="#">Damien Hirst - The Currency</a></li>
+      </ul>
+    </td>
+    <td>basic concepts, turtle concepts and random module</td>
   </tr>
 
 <!-- Advanced level -->
@@ -209,3 +220,10 @@ Start date is 23 march 2023
 
 **[Day 17 - Quiz TF](https://github.com/Rahullkumr/quiz-TF)**
 ![](https://github.com/Rahullkumr/quiz-TF/blob/main/quiz.gif)
+
+**[Day 18 - Turtle Projects](https://github.com/Rahullkumr/Python-turtle-projects)**
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/shapes.gif)
+<br />
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/randomWalk.gif)
+<br />
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/spirography.gif)
