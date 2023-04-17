@@ -185,10 +185,10 @@ Start date is 23 march 2023
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Shapes</a></li>
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Random Walk</a></li>
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Spirograph</a></li>
-          <li><a href="#">Damien Hirst - The Currency</a></li>
+          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Damien Hirst - The Currency</a></li>
       </ul>
     </td>
-    <td>basic concepts, turtle concepts and random module</td>
+    <td>basic concepts, turtle concepts, colorgram package and random module</td>
   </tr>
 
 <!-- Advanced level -->
@@ -227,3 +227,6 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/randomWalk.gif)
 <br />
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/spirography.gif)
+<br />
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/millionDollarArt.gif)
+
