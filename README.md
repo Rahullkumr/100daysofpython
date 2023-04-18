@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="4">Intermediate</td>
+    <td rowspan="5">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="4">04</td>
+    <td rowspan="5">09</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -185,11 +185,26 @@ Start date is 23 march 2023
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Shapes</a></li>
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Random Walk</a></li>
           <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Spirograph</a></li>
-          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Damien Hirst - The Currency</a></li>
+          <li><a href="https://github.com/Rahullkumr/Python-turtle-projects">Damien Hirst - The Dots</a></li>
       </ul>
     </td>
     <td>basic concepts, turtle concepts, colorgram package and random module</td>
   </tr>
+  <td>Day19</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/Sketcher">Sketcher</a></li>
+          <li><a href="#">Turtle Race</a></li>
+      </ul>
+    </td>
+    <td>turtle concepts, event listeners and higher order functions</td>
+  </tr>
+
+
+
+
+
+
 
 <!-- Advanced level -->
   <tr>
@@ -230,3 +245,6 @@ Start date is 23 march 2023
 <br />
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day18-Turtle/millionDollarArt.gif)
 
+**[Day 19 - Turtle Projects](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day19-Turtle)**
+![](https://github.com/Rahullkumr/Sketcher/blob/main/sketcher.gif)
+<br />
