@@ -194,10 +194,10 @@ Start date is 23 march 2023
     <td>
       <ul>
           <li><a href="https://github.com/Rahullkumr/Sketcher">Sketcher</a></li>
-          <li><a href="#">Turtle Race</a></li>
+          <li><a href="https://github.com/Rahullkumr/Turtle-Racing-Game">Turtle Race</a></li>
       </ul>
     </td>
-    <td>turtle concepts, event listeners and higher order functions</td>
+    <td>turtle concepts, event listeners,object states and higher order functions</td>
   </tr>
 
 
@@ -248,3 +248,6 @@ Start date is 23 march 2023
 **[Day 19 - Turtle Projects](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day19-Turtle)**
 ![](https://github.com/Rahullkumr/Sketcher/blob/main/sketcher.gif)
 <br />
+![](https://github.com/Rahullkumr/Turtle-Racing-Game/blob/main/turtleRace.gif)
+<br />
+
