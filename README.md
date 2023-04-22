@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="5">Intermediate</td>
+    <td rowspan="7">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="5">09</td>
+    <td rowspan="7">10</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -198,6 +198,22 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>turtle concepts, event listeners,object states and higher order functions</td>
+  </tr>
+  <td>Day20</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day20-SnakeGame">Snake Game (half)</a></li>
+      </ul>
+    </td>
+    <td>turtle concepts, event listeners, class and constructor</td>
+  </tr>
+  <td>Day21</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/SnakeGame">Snake Game</a></li>
+      </ul>
+    </td>
+    <td>turtle concepts, class, constructor, inheritance and slicing</td>
   </tr>
 
 
@@ -251,3 +267,10 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/Turtle-Racing-Game/blob/main/turtleRace.gif)
 <br />
 
+**[Day 20 - Snake Game (half)](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day20-SnakeGame)**
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day20-SnakeGame/snake.gif)
+<br />
+
+**[Day 21 - Snake Game](https://github.com/Rahullkumr/SnakeGame)**
+![](https://github.com/Rahullkumr/SnakeGame/blob/main/snakeGame.gif)
+<br />
