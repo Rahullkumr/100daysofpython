@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="7">Intermediate</td>
+    <td rowspan="8">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="7">10</td>
+    <td rowspan="8">11</td>
   </tr>
   <tr>
     <td>Day16</td>
@@ -215,7 +215,14 @@ Start date is 23 march 2023
     </td>
     <td>turtle concepts, class, constructor, inheritance and slicing</td>
   </tr>
-
+<td>Day22</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/PingPong">Ping Pong Game</a></li>
+      </ul>
+    </td>
+    <td>turtle concepts, class, constructor, inheritance, super()</td>
+  </tr>
 
 
 
@@ -273,4 +280,8 @@ Start date is 23 march 2023
 
 **[Day 21 - Snake Game](https://github.com/Rahullkumr/SnakeGame)**
 ![](https://github.com/Rahullkumr/SnakeGame/blob/main/snakeGame.gif)
+<br />
+
+**[Day 22 - Ping Pong Game](https://github.com/Rahullkumr/PingPong)**
+![](https://github.com/Rahullkumr/PingPong/blob/main/pong.gif)
 <br />
