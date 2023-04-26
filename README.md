@@ -151,7 +151,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="8">Intermediate</td>
+    <td rowspan="9">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -159,7 +159,7 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="8">11</td>
+    <td rowspan="9">12</td>
   </tr>
   <tr>
     <td>Day16</td>
