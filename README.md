@@ -159,7 +159,8 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>function, for, while, dictionary</td>
-    <td rowspan="10">13</td>
+    <!--     Total Projects -->
+    <td rowspan="10">16</td> 
   </tr>
   <tr>
     <td>Day16</td>
@@ -236,10 +237,10 @@ Start date is 23 march 2023
     <td>
       <ul>
           <li><a href="https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day24-FileHandling/Snake%20Game%20High%20Score">Snake Game High Score</a></li>
-          <li><a href="#">----</a></li>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day24-FileHandling/MailMerger">Mail Merger</a></li>
       </ul>
     </td>
-    <td>turtle concepts, class, inheritance, file-Handling</td>
+    <td>turtle concepts, inheritance, file-Handling, strip(), replace()</td>
   </tr>
 
 
@@ -310,8 +311,6 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/RoadCrossingGame/blob/main/trc.gif)
 <br />
 
-**[Day 24 - Snake Game and ----](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day24-FileHandling)**
+**[Day 24 - Snake Game and Mail Merger](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day24-FileHandling)**
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day24-FileHandling/Snake%20Game%20High%20Score/sgHS.gif)
-<br />
-![](#)
 <br />
