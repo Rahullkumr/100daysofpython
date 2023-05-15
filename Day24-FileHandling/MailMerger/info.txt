@@ -1,0 +1,8 @@
+This project uses File Handling.
+
+The goal is to invite all my friends to my birthday party.
+
+Write a letter for each and store it in "Output/ReadyToSend" folder with each filename as "letter_to_friendName.txt" format.
+
+The blueprint of letter is available in "Input/Letters" folder.
+The name of all friends is in "Input/Names" folder.
