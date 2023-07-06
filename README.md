@@ -315,7 +315,7 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day24-FileHandling/Snake%20Game%20High%20Score/sgHS.gif)
 <br />
 
-**[Day 41 - Movie Ranking Website](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day41-Movie%20Ranking)**
+**[Day 41 - Movie Ranking Website](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day41-Movie%20Ranking)**<br>
 ![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day41-Movie%20Ranking/goal.jpg)
 <br />
 
