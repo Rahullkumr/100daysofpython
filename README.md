@@ -17,6 +17,16 @@ Start date is 23 march 2023
     <th>Total Projects</th>
   </tr>
 
+
+
+
+
+
+
+
+
+
+
 <!-- Begineer Level -->
   <tr>
     <td rowspan="14">Begineer</td>
@@ -149,9 +159,20 @@ Start date is 23 march 2023
     <td>function, dictionary, random</td>
   </tr>
 
+
+
+
+
+
+
+
+
+
+
+
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="10">Intermediate</td>
+    <td rowspan="11">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -160,7 +181,7 @@ Start date is 23 march 2023
     </td>
     <td>function, for, while, dictionary</td>
     <!--     Total Projects -->
-    <td rowspan="10">16</td> 
+    <td rowspan="11">17</td> 
   </tr>
   <tr>
     <td>Day16</td>
@@ -233,6 +254,7 @@ Start date is 23 march 2023
     </td>
     <td>turtle concepts, class, constructor, inheritance, super()</td>
   </tr>
+  <tr>
   <td>Day24</td>
     <td>
       <ul>
@@ -242,6 +264,16 @@ Start date is 23 march 2023
     </td>
     <td>turtle concepts, inheritance, file-Handling, strip(), replace()</td>
   </tr>
+  <tr>
+  <td>Day41</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day24-FileHandling/MailMerger">Movie Ranking Website</a></li>
+      </ul>
+    </td>
+    <td>Basic html tags: heading, hr, br and paragraph</td>
+  </tr>
+  
 
 
 
@@ -266,8 +298,9 @@ Start date is 23 march 2023
 </html>
 <hr>
 
-## Following are the projects 
+<!-- Intermediate Projects -->
 
+## Following are the projects 
 
 **[Day 15 - Coffee Machine](https://github.com/Rahullkumr/CoffeeMachine)**
 ![](https://github.com/Rahullkumr/CoffeeMachine/blob/main/coffee.gif)
@@ -318,6 +351,11 @@ Start date is 23 march 2023
 **[Day 41 - Movie Ranking Website](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day41-Movie%20Ranking)**<br>
 ![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day41-Movie%20Ranking/goal.jpg)
 <br />
+
+
+
+
+<!-- Advanced Projects -->
 
 
 
