@@ -375,7 +375,7 @@ Start date is 23 march 2023
 <br />
 
 **[Day 43 - Colors Spanish website](https://github.com/Rahullkumr/100daysofpython/tree/main/Day43-ColorsInSpanish)** <br>
-![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day43-ColorsInSpanish/goal.png)
+![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day43-ColorsInSpanish/goal.jpg)
 <br />
 
 
