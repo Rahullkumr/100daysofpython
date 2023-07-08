@@ -282,6 +282,15 @@ Start date is 23 march 2023
     </td>
     <td>Basic html image, list, anchor etc</td>
   </tr>
+  <tr>
+  <td>Day43</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day43-ColorsInSpanish">Colors In Spanish</a></li>
+      </ul>
+    </td>
+    <td>Basic css font, height, width, text alignment, etc</td>
+  </tr>
   
 
 
@@ -365,8 +374,8 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite/goal.png)
 <br />
 
-**[Day 43 - Colors Spanish website](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite)** <br>
-![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite/goal.png)
+**[Day 43 - Colors Spanish website](https://github.com/Rahullkumr/100daysofpython/tree/main/Day43-ColorsInSpanish)** <br>
+![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day43-ColorsInSpanish/goal.png)
 <br />
 
 
