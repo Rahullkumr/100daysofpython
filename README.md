@@ -181,7 +181,7 @@ Start date is 23 march 2023
     </td>
     <td>function, for, while, dictionary</td>
     <!--     Total Projects -->
-    <td rowspan="13">17</td> 
+    <td rowspan="13">19</td> 
   </tr>
   <tr>
     <td>Day16</td>
