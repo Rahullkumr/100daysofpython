@@ -172,7 +172,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="11">Intermediate</td>
+    <td rowspan="13">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -181,7 +181,7 @@ Start date is 23 march 2023
     </td>
     <td>function, for, while, dictionary</td>
     <!--     Total Projects -->
-    <td rowspan="11">17</td> 
+    <td rowspan="13">17</td> 
   </tr>
   <tr>
     <td>Day16</td>
@@ -273,6 +273,15 @@ Start date is 23 march 2023
     </td>
     <td>Basic html tags: heading, hr, br and paragraph</td>
   </tr>
+  <tr>
+  <td>Day42</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day42-BirthdayInvite">Birthday Invitation</a></li>
+      </ul>
+    </td>
+    <td>Basic html image, list, anchor etc</td>
+  </tr>
   
 
 
@@ -352,6 +361,13 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day41-Movie%20Ranking/goal.jpg)
 <br />
 
+**[Day 42 - Birthday Invitation website](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite)** <br>
+![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite/goal.png)
+<br />
+
+**[Day 43 - Colors Spanish website](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite)** <br>
+![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day42-BirthdayInvite/goal.png)
+<br />
 
 
 
