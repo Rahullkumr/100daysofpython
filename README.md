@@ -172,7 +172,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="13">Intermediate</td>
+    <td rowspan="14">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -181,7 +181,7 @@ Start date is 23 march 2023
     </td>
     <td>function, for, while, dictionary</td>
     <!--     Total Projects -->
-    <td rowspan="13">19</td> 
+    <td rowspan="14">19</td> 
   </tr>
   <tr>
     <td>Day16</td>
@@ -291,6 +291,15 @@ Start date is 23 march 2023
     </td>
     <td>Basic css font, height, width, text alignment, etc</td>
   </tr>
+  <tr>
+  <td>Day44</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/addition/Day44-MotivationalMeme">Motivational Meme</a></li>
+      </ul>
+    </td>
+    <td>div, img, box-model, positioning of image</td>
+  </tr>
   
 
 
@@ -378,6 +387,9 @@ Start date is 23 march 2023
 ![](https://github.com/Rahullkumr/100daysofpython/blob/main/Day43-ColorsInSpanish/goal.jpg)
 <br />
 
+**[Day 44 - Motivational Meme website](https://github.com/Rahullkumr/100daysofpython/blob/addition/Day44-MotivationalMeme)** <br>
+![](https://github.com/Rahullkumr/100daysofpython/blob/addition/Day44-MotivationalMeme/mm.jpg)
+<br />
 
 
 <!-- Advanced Projects -->
