@@ -126,7 +126,7 @@ Start date is 23 march 2023
     <td>Day11</td>
     <td>
       <ul>
-          <li><a href="https://rb.gy/dolji">Blackjack Game</a></li>
+          <li><a href="https://rb.gy/dolji">Blackjack Gam</a></li>
       </ul>
     </td>
     <td>random, lists, functions</td>
