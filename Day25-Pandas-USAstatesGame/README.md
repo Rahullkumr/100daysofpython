@@ -2,6 +2,8 @@
 
 This is an interactive Python game where users attempt to name all 50 U.S. states. The program will show an image of the United States and ask users to input state names. If a correct state name is entered, it will be displayed on the map. The game also generates a file with the names of any states the player missed.
 
+![](./USAstatesGame.png)
+
 ## Features
 - Displays a map of the USA with a blank outline of the states.
 - Allows users to guess states' names and shows correct guesses on the map.
@@ -24,12 +26,12 @@ This is an interactive Python game where users attempt to name all 50 U.S. state
 
 1. **Clone the repository**: Clone the project to your local machine using Git.
    ```
-   git clone <repository-url>
+   git clone https://github.com/Rahullkumr/100daysofpython.git
    ```
 
 2. **Navigate to the project directory**:
    ```
-   cd <project-directory>
+   cd Day25-Pandas-USAstatesGame
    ```
 
 3. **Ensure all required files are in the directory**:
