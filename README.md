@@ -268,7 +268,7 @@ Start date is 23 march 2023
   <td>Day25</td>
     <td>
       <ul>
-          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/addition/Day25-Pandas-USAstatesGame">USAstatesGame</a></li>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day25-Pandas-USAstatesGame">USAstatesGame</a></li>
       </ul>
     </td>
     <td>Turtle, PANDAS, CSV files, Data Analysis, Series, DataFrame</td>
