@@ -172,7 +172,7 @@ Start date is 23 march 2023
 
 <!-- Intermediate level -->
   <tr>
-    <td rowspan="14">Intermediate</td>
+    <td rowspan="15">Intermediate</td>
     <td>Day15</td>
     <td>
       <ul>
@@ -181,7 +181,7 @@ Start date is 23 march 2023
     </td>
     <td>function, for, while, dictionary</td>
     <!--     Total Projects -->
-    <td rowspan="14">19</td> 
+    <td rowspan="15">20</td> 
   </tr>
   <tr>
     <td>Day16</td>
@@ -263,6 +263,15 @@ Start date is 23 march 2023
       </ul>
     </td>
     <td>turtle concepts, inheritance, file-Handling, strip(), replace()</td>
+  </tr>
+  <tr>
+  <td>Day25</td>
+    <td>
+      <ul>
+          <li><a href="https://github.com/Rahullkumr/100daysofpython/tree/main/Day25-Pandas-USAstatesGame">USAstatesGame</a></li>
+      </ul>
+    </td>
+    <td>Turtle, PANDAS, CSV files, Data Analysis, Series, DataFrame</td>
   </tr>
   <tr>
   <td>Day41</td>
@@ -373,6 +382,10 @@ Start date is 23 march 2023
 
 **[Day 24 - Snake Game and Mail Merger](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day24-FileHandling)**
 ![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day24-FileHandling/Snake%20Game%20High%20Score/sgHS.gif)
+<br />
+
+**[Day 25 - USA states guessing game](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day25-Pandas-USAstatesGame)**
+![](https://github.com/Rahullkumr/100daysofpython-challenge/blob/main/Day25-Pandas-USAstatesGame/USAstatesGame.png)
 <br />
 
 **[Day 41 - Movie Ranking Website](https://github.com/Rahullkumr/100daysofpython-challenge/tree/main/Day41-Movie%20Ranking)**<br>
